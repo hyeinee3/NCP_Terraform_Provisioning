@@ -7,5 +7,5 @@ variable "vpc_cidr" {
 }
 
 variable "resource_prefix" {
-  default = "js-ncp-demo"
+  default = "hi-ncp-demo"
 }
